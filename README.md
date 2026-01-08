@@ -8,7 +8,7 @@
 ## 🚀 About Me
 - Strong foundation in **data cleaning, analysis, and visualization**
 - Experience working with **real-world datasets**
-- Interested in **Data Analytics, Business Intelligence & Data Science**
+- Interested in **Data Analytics, Business Intelligence & Data Science*
 - Actively seeking **Data Analyst / Junior Data Analyst roles**
 
 ---
